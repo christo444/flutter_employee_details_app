@@ -1,3 +1,3 @@
 # employee_1
 
-A new Flutter project.
+An app to store the employee details created using flutter.
